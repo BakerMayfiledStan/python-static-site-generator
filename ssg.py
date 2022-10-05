@@ -1,4 +1,4 @@
-import typer
+iimport typer
 from ssg.site import Site
 
 import ssg.parsers
